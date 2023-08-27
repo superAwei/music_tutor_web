@@ -1,0 +1,17 @@
+ol, ul {
+	list-style: none;
+}
+p {
+  margin: 0;
+}
+img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+/* 每個區塊的標題文字 */
+.section-title{
+  letter-spacing: 12px;
+  margin-bottom: 0px;
+}
