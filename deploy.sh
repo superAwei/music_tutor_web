@@ -24,6 +24,6 @@ git commit -m 'deploy'
 # 以這個專案來講就要改成這樣以下這樣，下面是走 ssh 模式
 # git push -f git@github.com:music_tutor_web/metahorse.git master:gh-pages
 # 除此之外，也可以改走 HTTPS 模式
-git push -f https://github.com/music_tutor_web/music_tutor.git master:gh-pages
+git push -f https://github.com/superAwei/music_tutor_web.git main:gh-pages
 
 cd -

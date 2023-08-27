@@ -67,7 +67,7 @@
             <p class="fs-14 fw-light lh-lg">在尋找音樂之道的路上，樂樂音樂家教媒合平台將您與充滿熱情的音樂老師相結合。<br>無論您是剛起步或已有經驗，我們靈活的課程時間安排讓您自由展現對音樂的想像和熱愛。<br>一同探索音符的世界，實現心中的音樂夢想。<br>在這裡，旋律不僅被演奏，更被細心呵護成成長的足跡。</p>
         </div>
         <div class="col-md-6">
-          <img class="img-fluid" src="../assets/images/serve1.jpg" alt="">
+          <img class="img-fluid" src="../assets/images/banner.jpg" alt="">
         </div>
       </div>
 
@@ -77,7 +77,7 @@
             <p class="fs-14 fw-light lh-lg">音樂家的才華在樂樂音樂家教媒合平台綻放，歡迎您將空閑時間轉化為珍貴的教學時光。<br>與學生分享您的音樂造詣，同時獲得寶貴的報酬。<br>這是您與學生共同書寫音符、創造人生旋律的地方。<br>在這裡，您不僅成為指導者，更是啟發夢想、播撒希望的音樂使者。</p>
         </div>
         <div class="col-md-6">
-          <img class="img-fluid" src="../assets/images/serve1.jpg" alt="">
+          <img class="img-fluid" src="../assets/images/banner.jpg" alt="">
         </div>
       </div>
     </div>
@@ -183,22 +183,22 @@
         <p class="fs-14 fw-light lh-lg mb-7">與知名品牌攜手合作，為您提供更廣闊的音樂學習視野，豐富您的音樂旅程。</p>
         <div class="row">
           <div class="col-6 col-md-3 d-flex justify-content-center align-items-center mb-6">
-            <img class="brand-img" src="../assets/images/serve1.jpg" alt="">
+            <img class="brand-img" src="../assets/images/banner.jpg" alt="">
           </div>
           <div class="col-6 col-md-3 d-flex justify-content-center align-items-center mb-6">
-            <img class="brand-img" src="../assets/images/serve1.jpg" alt="">
+            <img class="brand-img" src="../assets/images/banner.jpg" alt="">
           </div>
           <div class="col-6 col-md-3 d-flex justify-content-center align-items-center mb-6">
-            <img class="brand-img" src="../assets/images/serve1.jpg" alt="">
+            <img class="brand-img" src="../assets/images/banner.jpg" alt="">
           </div>
           <div class="col-6 col-md-3 d-flex justify-content-center align-items-center mb-6">
-            <img class="brand-img" src="../assets/images/serve1.jpg" alt="">
+            <img class="brand-img" src="../assets/images/banner.jpg" alt="">
           </div>
           <div class="col-6 col-md-3 d-flex justify-content-center align-items-center mb-6">
-            <img class="brand-img" src="../assets/images/serve1.jpg" alt="">
+            <img class="brand-img" src="../assets/images/banner.jpg" alt="">
           </div>
           <div class="col-6 col-md-3 d-flex justify-content-center align-items-center mb-6">
-            <img class="brand-img" src="../assets/images/serve1.jpg" alt="">
+            <img class="brand-img" src="../assets/images/banner.jpg" alt="">
           </div>
         </div>
     </div>
