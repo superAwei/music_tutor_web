@@ -156,6 +156,7 @@ export default defineStore('logInStore', {
       data.isMember = true
       this.logInForm.user.email = ''
       this.logInForm.user.password = ''
+      console.log("有跑到這嗎")
       router.push('/')
       Toast.fire({
         icon: 'success',
@@ -220,6 +221,8 @@ export default defineStore('logInStore', {
           console.log("第一次登入")
           data.teacherData.displayName = res.user.displayName
           data.SetFirebaseMemberData()
+          // 新增跳轉  
+          router.push('/')
         } else {
           router.push('/')
         }
