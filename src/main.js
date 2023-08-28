@@ -50,16 +50,24 @@ const options = {
   cancelButtonColor: 'rgba(108, 117, 125, 1)',
 }
 
-//firebase
+//firebase 資料庫設定
 import { initializeApp } from 'firebase/app';
 const firebaseConfig = {
-  apiKey: "AIzaSyBurMB5RDdvNOV8jMh0M6zi4gNx8r5xNyU",
-  authDomain: "music-tutor-909ea.firebaseapp.com",
-  projectId: "music-tutor-909ea",
-  storageBucket: "music-tutor-909ea.appspot.com",
-  messagingSenderId: "653538731223",
-  appId: "1:653538731223:web:7d9fdd8b43e991ab6bfc92",
-  measurementId: "G-D8YY5SWYN2"
+  // kevin
+  // apiKey: "AIzaSyBurMB5RDdvNOV8jMh0M6zi4gNx8r5xNyU",
+  // authDomain: "music-tutor-909ea.firebaseapp.com",
+  // projectId: "music-tutor-909ea",
+  // storageBucket: "music-tutor-909ea.appspot.com",
+  // messagingSenderId: "653538731223",
+  // appId: "1:653538731223:web:7d9fdd8b43e991ab6bfc92",
+  // measurementId: "G-D8YY5SWYN2"
+  apiKey: "AIzaSyCuvmlRB6xUkhU4g09jcaouLGXR_VzyizE",
+  authDomain: "music-tutor-web.firebaseapp.com",
+  projectId: "music-tutor-web",
+  storageBucket: "music-tutor-web.appspot.com",
+  messagingSenderId: "460249885092",
+  appId: "1:460249885092:web:1497eef624c3d320d2f931",
+  measurementId: "G-52BMK9Z27W"
 };
 initializeApp(firebaseConfig)
 
